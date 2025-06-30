@@ -77,6 +77,14 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
+    "piaoling": {
+      "api": "https://p2100.net/api.php/provide/vod",
+      "name": "飘零"
+    },
+    "91": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "91"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
