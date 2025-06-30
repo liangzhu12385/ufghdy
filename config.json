@@ -81,9 +81,21 @@
       "api": "https://p2100.net/api.php/provide/vod",
       "name": "飘零"
     },
+    "lebo": {
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "name": "乐播"
+    },
+    "jiuyi": {
+      "api": "https://91av.cyou/api.php/provide/vod",
+      "name": "九一"
+    },
     "91": {
       "api": "https://91md.me/api.php/provide/vod",
       "name": "91"
+    },
+    "caoliu": {
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
+      "name": "草榴"
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
