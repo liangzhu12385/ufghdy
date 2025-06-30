@@ -35,6 +35,7 @@
     "piaoling": {
       "api": "https://p2100.net/api.php/provide/vod",
       "name": "飘零"
+      "detail": "https://p2100.net"
     },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
