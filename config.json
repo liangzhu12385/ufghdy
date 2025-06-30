@@ -36,6 +36,10 @@
       "api": "https://p2100.net/api.php/provide/vod",
       "name": "飘零"
     },
+    "sandian": {
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电"
+    },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
