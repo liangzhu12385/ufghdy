@@ -32,6 +32,10 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
+    "piaoling": {
+      "api": "https://p2100.net/api.php/provide/vod",
+      "name": "飘零"
+    },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
