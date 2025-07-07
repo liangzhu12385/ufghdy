@@ -72,6 +72,12 @@ export default function RootLayout({
             <AuthProvider>{children}</AuthProvider>
           </SiteProvider>
         </ThemeProvider>
+        <script
+          defer
+          src="https://hananalytics-2qg.pages.dev/tracker.min.js"
+          data-website-id="moontv"
+        ></script>
+
       </body>
     </html>
   );
